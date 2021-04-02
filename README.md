@@ -17,9 +17,11 @@ The csv files are read in through **parse.h**. The csv files are from https://co
 
 **rating.h** is a class to allow encapsulation for hospital ratings (out of 5 stars).
 
-The stats classes allow various statistics to calculated, such as mean, standard deviation, correlation, and covariance.
+The vistior functions generate reports on the demographic without needing to add to the classes.
 
-The tests classes check the code for any logical errors in the code.
+The stats files allow various statistics to calculated, such as mean, standard deviation, correlation, and covariance.
+
+The tests files check the code for any logical errors in the code.
 
 ## Results
 

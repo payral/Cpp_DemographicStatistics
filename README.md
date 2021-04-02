@@ -5,7 +5,7 @@ Abstraction, encapsulation, polymorphism, inheritance, unit testing, visitor cla
 In this project, I applied various OOP techniques to explore statistics to answer questions such as:  
 - Which state has the lowest rated hospitals?  
 - Is there any correlation between % with college degrees and hosptial quality?
-- Which cities have the most retired Americans?
+- Which cities have the most Americans over 65?
 
 ## File Descriptions
 
